@@ -1,1 +1,1 @@
-# new-sturtup
+# new-startup
